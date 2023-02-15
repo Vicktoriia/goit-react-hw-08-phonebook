@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/300.4e3fe2ba.chunk.js","mappings":"uMAAe,SAASA,IACtB,OAAO,0CACR,C","sources":["Pages/Register.js"],"sourcesContent":["export default function Register() {\n  return <div>Register page</div>;\n}\n"],"names":["Register"],"sourceRoot":""}
