@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { Puff } from 'react-loader-spinner';
 
 const Loader = () => (
@@ -17,8 +16,5 @@ const Loader = () => (
     />
   </div>
 );
-Loader.propTypes = {
-  loading: PropTypes.bool,
-};
 
 export default Loader;
