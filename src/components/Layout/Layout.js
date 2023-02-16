@@ -3,7 +3,7 @@ import { Suspense } from 'react';
 import AppBar from 'components/AppBar/AppBar';
 import Loader from 'components/Loader/Loader';
 
-const Layout = () => {
+export const Layout = () => {
   return (
     <div>
       <AppBar />
@@ -13,5 +13,3 @@ const Layout = () => {
     </div>
   );
 };
-
-export default Layout;

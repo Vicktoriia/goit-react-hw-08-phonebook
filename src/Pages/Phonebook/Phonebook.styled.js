@@ -7,5 +7,4 @@ export const Div = styled.div`
   justify-content: center;
   align-items: center;
   gap: 20px;
-  background-color: lightgrey;
 `;
